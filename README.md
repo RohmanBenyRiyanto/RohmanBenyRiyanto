@@ -1,8 +1,8 @@
-![Aditya Vikram Singh Banner](https://github.com/RohmanBenyRiyanto/Beny/blob/master/assets/Rohman%20Beny%20R%20Banner.png?raw=true)
+![Rohman Beny R Banner](https://github.com/RohmanBenyRiyanto/Beny/blob/master/assets/Rohman%20Beny%20R%20Banner.png?raw=true)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rohman Beny Riyanto</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rohman Beny</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Beny -->
+<!-- ## 👋 &nbsp;Hey there! I'm Rohman Beny Riyanto -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
