@@ -45,7 +45,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.rohmanbenyriyanto.com"><img src="https://img.shields.io/badge/-rohmanbenyriyanto.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://rohmanbenyriyanto.github.io/"><img src="https://img.shields.io/badge/-rohmanbenyriyanto.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rohman-beny/"><img src="https://img.shields.io/badge/-rohman%20beny-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rendyasw@gmail.com"><img src="https://img.shields.io/badge/-rendyasw@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/cimonn_/"><img src="https://img.shields.io/badge/-@رحمن بيني-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
