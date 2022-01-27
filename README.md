@@ -1,4 +1,6 @@
-![Rohman Beny R Banner](https://github.com/RohmanBenyRiyanto/Beny/blob/master/assets/Rohman%20Beny%20R%20Banner.png?raw=true)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/72520643/151448156-fe97b000-460f-4a96-9d78-8c7344d89083.png" alt="Image" width="400" />
+</p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rohman Beny Riyanto</h2>
 
