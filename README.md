@@ -6,15 +6,6 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rohman Beny Riyanto -->
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software Engineering at the Institut Teknologi Telkom Purwokerto.\
-🌱 &nbsp;I'm on track for learning more about Mobile Development, Systems Design, and UX Researcher.\
-✍️ &nbsp;️In my spare time, I pursue Graphic Design, UI UX Design/side business and Gaming as entertainment.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at rendyasw@gmail.com! I'll try to respond as soon as I can.
-
 <img alt="QR Code email" src="https://github.com/RohmanBenyRiyanto/Beny/blob/master/assets/QR%20Code%20email.png?raw=true" width="101" height="137" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
