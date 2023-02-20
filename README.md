@@ -6,8 +6,6 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Rohman Beny Riyanto -->
 
-<img alt="QR Code email" src="https://github.com/RohmanBenyRiyanto/Beny/blob/master/assets/QR%20Code%20email.png?raw=true" width="101" height="137" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
