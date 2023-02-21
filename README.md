@@ -4,6 +4,8 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rohman Beny Riyanto</h2>
 
+![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Mobile+Developer;Flutter+Developer;UI/UX+Designer)
+
 <!-- ## 👋 &nbsp;Hey there! I'm Rohman Beny Riyanto -->
 
 ### 🛠 &nbsp;Tech Stack
